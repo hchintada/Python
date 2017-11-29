@@ -1,1 +1,1 @@
-# Python
+# Python Knowledge Sharing Sessions
