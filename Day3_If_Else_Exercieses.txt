@@ -1,0 +1,11 @@
+Day 3 If_else exercises:
+
+1) Assume you are creating a program for a bank's ATM machine. Now, using the if-else statement,
+write a program that checks whether the withdrawal amount is greater or less than the balance 
+in the account. If it is greater than the balance, the program should display 'Insufficient
+Funds'. If withdrawal amount is less than the balance, it should display 'please collect 
+cash' and update the balance by subtracting the withdrawal amount from the balance.
+
+2) Write a program to output the session of the day. If the time is 4 AM to 12 AM it should output
+'Morning'. If the time is between 12AM to 5PM, it should output 'Afternoon'. If time is between
+5PM to 8PM it should output 'Evening'. If it is between 8PM to 4AM, it should to output 'Night'.
