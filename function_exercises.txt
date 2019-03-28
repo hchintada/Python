@@ -24,3 +24,25 @@ def seq_check(l):
 
 def string_return(s):
 	#code goes here
+
+3. Given two strings, return True if either of the strings appears at the very end of the other string, ignoring upper/lower case 
+differences (should not be case sensitive).
+
+For example:
+	ending('Hiabc','abc') --> True
+	ending('Abc','Hiabc') --> True
+	ending('abc','abxabc') --> True
+	ending('xya','abcder') --> False
+
+4. Given a string, return another string where for every character in the original string, there are two caharacters.
+
+For example:
+	doubler('The') --> 'TThhee'
+	doubler('AAbb') --> 'AAAAbbbb'
+
+5. Given 3 integer values, a,b,c, return their sum. However, if any of the three values is a teen, then that value counts as 0, except
+15 and 16.
+
+examples:
+	non_teen_sum(12,3,30) --> 33
+	non_teen_sum(3,16,9) --> 28
